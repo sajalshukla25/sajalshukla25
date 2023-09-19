@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sajal Shukla</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalshukla25&label=Profile%20views&color=0e75b6&style=flat" alt="sajalshukla25" /> </p>
+<h1><b>Hi, Sajal Shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><p>
+  <a><img src="https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=500&height=50&lines=Active+Learner,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
+</p></h1>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 
 - 🌱 I’m currently learning **DSA in Java**
 
