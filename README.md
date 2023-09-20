@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 📫 How to reach me **Shuklasajal420@gmail.com**
+- 📫 How to reach me **shuklasajal420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
