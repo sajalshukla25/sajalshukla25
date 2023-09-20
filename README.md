@@ -1,4 +1,4 @@
-<h1><b>Hi, Sajal Shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><p>
+<h1><b>Hi, sajal Shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><p>
   <a><img src="https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=500&height=50&lines=Active+Learner,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 
 - 🌱 I’m currently learning **DSA in Java**
