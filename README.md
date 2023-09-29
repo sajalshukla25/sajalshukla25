@@ -10,11 +10,11 @@
 - **Languages** :
   
   
-  <img align="left" alt="C" width="30px" src="https://img.icons8.com/fluency/256/c-programming.png" />
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/?size=512&id=13679&format=png" />
-<img align="left" alt="Dart" width="28px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="left" alt="C" width="38px" src="https://img.icons8.com/fluency/256/c-programming.png" />
+<img align="left" alt="C++" width="38x" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
+<img align="left" alt="Java" width="38px" src="https://img.icons8.com/?size=512&id=13679&format=png" />
+<img align="left" alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 
   <br/>
@@ -25,6 +25,7 @@
   
 
   <img align="left" alt="ANDROID" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
+  
   <img align="left" alt="Kotlin" width="32px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 
 
