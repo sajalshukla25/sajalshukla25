@@ -37,32 +37,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajal-shukla-0698a924a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajal-shukla-0698a924a" height="30" width="40" /></a>
 <a href="https://instagram.com/sajal__shukla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajal__shukla_" height="30" width="40" /></a>
 </p>
-
-
-
-
-  <br/>
-  <br/>
-
-
-
-
-</p>
-
-<br>
-<br>
-
-
-
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nischay-code&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
-
- </div> -->
-
-
-
-
